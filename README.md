@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adithyay19
-- 👀 I’m interested in backend programming and jquery
-- 🌱 I’m currently learning C#
+- 👋 Hi, I’m Adithya Prasanth
+- 👀 I’m interested in web & mobile application development
+- 🌱 I’m currently learning React & Flutter web
 - 💞️ I’m looking to collaborate on ...well nothing
 - 📫 How to reach me ...
 
