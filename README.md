@@ -2,7 +2,7 @@
 - 👀 I’m interested in web & mobile application development
 - 🌱 I’m currently learning React Typescript
 - 💞️ I’m looking to collaborate on anything React based
-- 📫 You can reach me on adithyatoch11@gmail.com
+- 📫 You can reach me on adithya842@gmail.com
 
 <!---
 adithyay19/adithyay19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
